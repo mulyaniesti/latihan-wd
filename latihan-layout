@@ -5,6 +5,11 @@
 		<title>Script Dasar HTML</title>
 	</head>
 	<body>
+		<main>
+			<h3>
+				bagian utama halaman web
+			</h3>
+		</main>
 		
 	</body>
 </html>
